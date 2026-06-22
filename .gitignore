@@ -1,0 +1,21 @@
+# Arduino IDE build outputs
+*.hex
+*.elf
+*.bin
+*.d
+*.o
+
+# IDE-specific directories
+.vscode/
+.idea/
+.project
+.cproject
+.settings/
+
+# OS-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Custom files
+*.lnk
