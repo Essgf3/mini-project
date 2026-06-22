@@ -1,3 +1,9 @@
+## Team Members
+**SHIVA SHARAN REDDY** | 2451-23-749-007 |
+
+
+
+
 # IoT Gas Leakage Monitoring & Alert System
 
 A smart, internet-connected Gas Leakage Monitoring and Alert System built using the **ESP32** microcontroller and **Thinger.io** IoT cloud platform. The system continuously polls an **MQ-2 gas sensor**, computes a stable running average to reduce sensor noise, controls local status indicator LEDs, and publishes real-time telemetry to a cloud dashboard.
