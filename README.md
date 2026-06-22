@@ -1,5 +1,5 @@
 ## Team Members
-**SHIVA SHARAN REDDY** | 2451-23-749-007 |
+**SHIVA SHARAN REDDY**  2451-23-749-007 
 
 
 
